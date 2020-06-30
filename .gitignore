@@ -1,0 +1,6 @@
+*-interactive
+*-figure
+*.rds
+*.csv
+*.xlsx
+*~

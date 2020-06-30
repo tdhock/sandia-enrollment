@@ -1,0 +1,16 @@
+** 29 June 2020
+
+[[file:Updated-R46Sandia.R]] reading data from [[file:Updated-R46Sandia.xlsx]]
+and saving to [[file:Updated-R46Sandia.csv]].
+
+[[file:Updated-R46Sandia-cv.R]] reads [[file:Updated-R46Sandia.csv]], runs the
+cross-validation experiment (learns models, computes predictions and
+errors), saving to [[file:Updated-R46Sandia-cv.rds]].
+
+[[file:Updated-R46Sandia-cv-figure.R]] visualizes the results in
+[[file:Updated-R46Sandia-cv-figure]] (static)
+[[file:Updated-R46Sandia-cv-figure-interactive/]] (interactive).
+
+** older
+
+[[file:Updated-R46Sandia-figure.R]] data viz (no model).
