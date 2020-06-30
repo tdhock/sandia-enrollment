@@ -1,3 +1,13 @@
+** 30 June 2020
+
+New data with 15 different current values and 3 different temperatures.
+
+[[file:data-2020-06-30-temp.R]] reads data from xlsx saving to
+[[file:data-2020-06-30-temp.csv]]
+
+[[file:data-2020-06-30-temp-figure.R]] reads data from csv, saving png
+figures.
+
 ** 29 June 2020
 
 [[file:Updated-R46Sandia.R]] reading data from [[file:Updated-R46Sandia.xlsx]]

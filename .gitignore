@@ -1,6 +1,8 @@
+data-2020-06-30
 *-interactive
 *-figure
 *.rds
 *.csv
 *.xlsx
 *~
+*.png
