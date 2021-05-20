@@ -1,3 +1,9 @@
+** 20 May 2021
+
+[[file:data-2021-03.R]] reads data from Excel files.
+
+[[file:data-2021-03-viz.R]] does some preliminary visualization.
+   
 ** 30 June 2020
 
 New data with 15 different current values and 3 different temperatures.
